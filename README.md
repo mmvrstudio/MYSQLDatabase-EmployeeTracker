@@ -4,6 +4,17 @@ This project is a back end application for managing my company's employees using
 
 ## Demo 
 
+
+
+https://user-images.githubusercontent.com/65464431/162987283-7407d5d3-d84f-4b5a-ae7f-f242e672d78c.mp4
+
+
+
+
+
+
+
+
 ## Description
 - This command-line application allows users to view and add departments, roles, employees, and updating all the previous info. 
 
