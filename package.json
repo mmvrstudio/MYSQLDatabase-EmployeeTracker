@@ -1,0 +1,16 @@
+{
+  "name": "mysql_employeetracker",
+  "version": "1.0.0",
+  "description": "In this project I will create an Employee tracker, a back end application for managing my company's employees using node, inquirer and MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.2",
+    "mysql2": "^2.3.3"
+  }
+}
