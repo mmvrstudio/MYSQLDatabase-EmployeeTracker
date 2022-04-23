@@ -1,13 +1,8 @@
 const mysql = require("mysql2");
 const inquirer = require("inquirer");
 const ct = require('console.table')
-// const sql = require("./sql");
-
-//CONNECTING TO MYSQL
 const connection = mysql.createConnection({
     host: 'localhost',
-
-    // X port | Default is 3306
     port: 3306,
     user: 'root',
     password: 'mariana123',
