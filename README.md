@@ -1,6 +1,6 @@
 # MySQL_EmployeeTracker
 
-This project is a back end application for managing my company's employees using node, inquirer and MySQL.
+Back end application for managing my company's employees using node, inquirer and MySQL.
 
 ## Demo 
 
